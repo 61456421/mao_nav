@@ -224,7 +224,7 @@ import { useThemeStore } from '@/stores/counter.js'
 import googleLogo from '@/assets/goolge.png'
 import baiduLogo from '@/assets/baidu.png'
 import bingLogo from '@/assets/bing.png'
-import bingLogo from '@/assets/yandex.png'
+import yandexLogo from '@/assets/yandex.png'
 import duckLogo from '@/assets/duck.png'
 // 导入GitHub logo
 import githubLogo from '@/assets/github.png'
