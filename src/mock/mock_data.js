@@ -670,6 +670,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1778812347550",
+      "icon": "📁",
+      "name": "鑫鑫学习",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "鑫鑫导航",
