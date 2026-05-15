@@ -338,18 +338,25 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.baidu.com"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
           "id": "site-1774601326477",
           "name": "猫猫绘图",
           "url": "https://fast.catsapi.com",
           "description": "文生图，图生图，文生视频站点",
           "icon": "https://www.faviconextractor.com/favicon/fast.catsapi.com"
+        },
+        {
+          "id": "site-1778880925841",
+          "name": "m3u8在线播放",
+          "url": "https://m3u8player.org/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/m3u8player.org"
+        },
+        {
+          "id": "curlconverter",
+          "name": "curl converter",
+          "url": "https://curlconverter.com/",
+          "description": "curl命令转换工具",
+          "icon": "/sitelogo/curlconverter.com.ico"
         },
         {
           "id": "linux-do",
