@@ -673,7 +673,7 @@ export const mockData = {
     },
     {
       "id": "category-1778812347550",
-      "icon": "📁",
+      "icon": "./mock/鑫鑫.png",
       "name": "鑫鑫学习",
       "order": 0,
       "sites": []
