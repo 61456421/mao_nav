@@ -263,10 +263,6 @@ const searchEngines = {
     icon: bingLogo,
     placeholder: 'Bing (点logo切换搜索引擎)'
   },
-  yandex: {
-    url: 'https://yandex.com/search/?text=',
-    icon: 'bingLogo',  // 直接用外网图标
-    placeholder: 'Yandex (点logo切换搜索引擎)'
   duckduckgo: {
     url: 'https://yandex.com/search/?text=',
     icon: duckLogo,
