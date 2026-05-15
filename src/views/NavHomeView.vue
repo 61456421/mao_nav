@@ -224,6 +224,7 @@ import { useThemeStore } from '@/stores/counter.js'
 import googleLogo from '@/assets/goolge.png'
 import baiduLogo from '@/assets/baidu.png'
 import bingLogo from '@/assets/bing.png'
+import bingLogo from '@/assets/yandex.png'
 import duckLogo from '@/assets/duck.png'
 // 导入GitHub logo
 import githubLogo from '@/assets/github.png'
@@ -264,9 +265,14 @@ const searchEngines = {
     placeholder: 'Bing (点logo切换搜索引擎)'
   },
   duckduckgo: {
-    url: 'https://yandex.com/search/?text=',
+    url: 'https://duckduckgo.com/?q=',
     icon: duckLogo,
     placeholder: 'DuckDuckGo (点logo切换搜索引擎)'
+  },
+  yandex: {
+    url: 'https://yandex.com/search/?text=',
+    icon: yandexLogo,
+    placeholder: 'yandex (点logo切换搜索引擎)'
   }
 }
 
