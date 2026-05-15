@@ -272,7 +272,7 @@ const searchEngines = {
   },
   yandex: {
     url: 'https://yandex.com/search/?text=',
-    icon: bingLogo,
+    icon: yandexLogo,
     placeholder: 'yandex (点logo切换搜索引擎)'
   }
 }
