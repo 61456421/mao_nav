@@ -2,65 +2,65 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1778812347550",
-      "icon": "http://w.yyjn.top:83/mt/古.png",
+      "icon": "📁",
       "name": "鑫鑫学习",
       "order": 0,
       "sites": [
-                {
+        {
           "id": "site-1778488681059",
           "name": "雨杭爱听书",
           "url": "http://xx.yyjn.top",
           "description": "儿童的四大名著",
-          "icon": "http://w.yyjn.top:83/mt/古.png"
+          "icon": "https://www.faviconextractor.com/favicon/xx.yyjn.top"
         },
         {
           "id": "site-1778488682059",
           "name": "爱点读",
           "url": "https://h5.520diandu.com",
           "description": "爱点读",
-          "icon": "爱点读.jpg"
+          "icon": "https://www.faviconextractor.com/favicon/h5.520diandu.com"
         },
         {
           "id": "site-1778488683059",
           "name": "中小学教育平台",
           "url": "https://basic.smartedu.cn/",
           "description": "国家中小学智慧教育平台",
-          "icon": "教育平台.png"
+          "icon": "https://www.faviconextractor.com/favicon/basic.smartedu.cn"
         },
         {
           "id": "site-1778488684059",
           "name": "书香博士",
           "url": "http://www.sxwychina.com",
           "description": "书香博士",
-          "icon": "书香.png"
+          "icon": "https://www.faviconextractor.com/favicon/www.sxwychina.com"
         },
         {
           "id": "site-1778488685059",
           "name": "古诗文赏析",
           "url": "https://www.gushiwen.cn/",
           "description": "古诗文赏析",
-          "icon": "古.png"
+          "icon": "https://www.faviconextractor.com/favicon/www.gushiwen.cn"
         },
         {
           "id": "site-1778488686059",
           "name": "文心一言",
           "url": "https://yiyan.baidu.com",
           "description": "文心一言。",
-          "icon": "文心一言.png"
+          "icon": "https://www.faviconextractor.com/favicon/yiyan.baidu.com"
         },
         {
           "id": "site-1778488687059",
           "name": "通义千问",
           "url": "https://qianwen.aliyun.com",
           "description": "通义千问",
-          "icon": "通义千问.png"
+          "icon": "https://www.faviconextractor.com/favicon/qianwen.aliyun.com"
         },
         {
           "id": "site-1778488688059",
           "name": "讯飞星火",
           "url": "http://xinghuo.xfyun.cn",
           "description": "讯飞星火。",
-          "icon": "讯飞.png"
+          "icon": "https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn"
         },
         {
           "id": "site-1778488689059",
