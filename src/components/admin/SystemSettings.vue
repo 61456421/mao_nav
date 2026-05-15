@@ -308,6 +308,7 @@ const searchEngineOptions = [
   { value: 'google', label: 'Google' },
   { value: 'baidu', label: '百度' },
   { value: 'bing', label: 'Bing' },
+  { value: 'yandex', label: 'yandex' },
   { value: 'duckduckgo', label: 'DuckDuckGo' }
 ]
 
