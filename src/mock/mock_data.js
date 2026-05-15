@@ -63,18 +63,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn"
         },
         {
+          "id": "site-1778488690059",
+          "name": "kimi",
+          "url": "https://www.kimi.com",
+          "description": "AI",
+          "icon": "https://www.faviconextractor.com/favicon/www.kimi.com"
+        },
+        {
           "id": "site-1778488689059",
           "name": "slack",
           "url": "https://app.slack.com/",
           "description": "slack",
           "icon": "slack.png"
-        },
-        {
-          "id": "site-1778488690059",
-          "name": "AIweb",
-          "url": "https://chat18.aichatos.xyz/",
-          "description": "AI",
-          "icon": "ai.png"
         },
         {
           "id": "site-1778488691059",
