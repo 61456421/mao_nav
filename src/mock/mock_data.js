@@ -11,7 +11,7 @@ export const mockData = {
           "name": "雨杭爱听书",
           "url": "http://xx.yyjn.top",
           "description": "儿童的四大名著",
-          "icon": "鑫鑫.png"
+          "icon": "http://w.yyjn.top:83/mt/古.png"
         },
         {
           "id": "site-1778488682059",
