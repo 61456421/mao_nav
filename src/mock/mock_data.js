@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1778812347550",
-      "icon": "📁",
+      "icon": "/sitelogo/gu.ico",
       "name": "鑫鑫学习",
       "order": 0,
       "sites": [
