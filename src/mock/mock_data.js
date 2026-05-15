@@ -5,7 +5,106 @@ export const mockData = {
       "icon": "https://github.com/61456421/daohang/blob/main/static/assets/images/logo.png",
       "name": "鑫鑫学习",
       "order": 0,
-      "sites": []
+      "sites": [
+                {
+          "id": "site-1778488681059",
+          "name": "雨杭爱听书",
+          "url": "http://xx.yyjn.top",
+          "description": "儿童的四大名著",
+          "icon": "鑫鑫.png"
+        },
+        {
+          "id": "site-1778488682059",
+          "name": "爱点读",
+          "url": "https://h5.520diandu.com",
+          "description": "爱点读",
+          "icon": "爱点读.jpg"
+        },
+        {
+          "id": "site-1778488683059",
+          "name": "中小学教育平台",
+          "url": "https://basic.smartedu.cn/",
+          "description": "国家中小学智慧教育平台",
+          "icon": "教育平台.png"
+        },
+        {
+          "id": "site-1778488684059",
+          "name": "书香博士",
+          "url": "http://www.sxwychina.com",
+          "description": "书香博士",
+          "icon": "书香.png"
+        },
+        {
+          "id": "site-1778488685059",
+          "name": "古诗文赏析",
+          "url": "https://www.gushiwen.cn/",
+          "description": "古诗文赏析",
+          "icon": "古.png"
+        },
+        {
+          "id": "site-1778488686059",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com",
+          "description": "文心一言。",
+          "icon": "文心一言.png"
+        },
+        {
+          "id": "site-1778488687059",
+          "name": "通义千问",
+          "url": "https://qianwen.aliyun.com",
+          "description": "通义千问",
+          "icon": "通义千问.png"
+        },
+        {
+          "id": "site-1778488688059",
+          "name": "讯飞星火",
+          "url": "http://xinghuo.xfyun.cn",
+          "description": "讯飞星火。",
+          "icon": "讯飞.png"
+        },
+        {
+          "id": "site-1778488689059",
+          "name": "slack",
+          "url": "https://app.slack.com/",
+          "description": "slack",
+          "icon": "slack.png"
+        },
+        {
+          "id": "site-1778488690059",
+          "name": "AIweb",
+          "url": "https://chat18.aichatos.xyz/",
+          "description": "AI",
+          "icon": "ai.png"
+        },
+        {
+          "id": "site-1778488691059",
+          "name": "AI鑫",
+          "url": "https://hy.yyjn.top",
+          "description": "免费在线。",
+          "icon": "龙1.png"
+        },
+        {
+          "id": "site-1778488692059",
+          "name": "chat8",
+          "url": "https://lexiao66.com",
+          "description": "免费在线。",
+          "icon": "chat8.png"
+        },
+        {
+          "id": "site-1778488693059",
+          "name": "鑫盘",
+          "url": "http://pan.yyjn.top",
+          "description": "鑫盘官网。",
+          "icon": "鑫鑫.png"
+        },
+        {
+          "id": "site-1778488694059",
+          "name": "alist",
+          "url": "http://alist.yyjn.top",
+          "description": "格式官网反过来",
+          "icon": "坚果云.png"
+        }
+      ]
     },
     {
       "id": "my-favorites",
