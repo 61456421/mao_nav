@@ -250,7 +250,7 @@ const unlockError = ref('') // 解锁错误信息
 // 搜索引擎配置
 const searchEngines = {
   google: {
-    url: 'https://www.google.com/search?q=',
+    url: 'https://yandex.com/search/?text=',
     icon: googleLogo,
     placeholder: 'Google (点logo切换搜索引擎'
   },
