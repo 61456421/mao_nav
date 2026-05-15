@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1778812347550",
-      "icon": "https://raw.githubusercontent.com/61456421/daohang/refs/heads/main/static/assets/images/logo.ico?token=GHSAT0AAAAAAD3EGILHECBBK7UZTBT5NA3I2QGRO2Q",
+      "icon": "鑫鑫.png",
       "name": "鑫鑫学习",
       "order": 0,
       "sites": [
