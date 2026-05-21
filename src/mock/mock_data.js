@@ -18,21 +18,21 @@ export const mockData = {
           "name": "爱点读",
           "url": "https://h5.520diandu.com",
           "description": "爱点读",
-          "icon": "https://www.faviconextractor.com/favicon/h5.520diandu.com"
+          "icon": "/sitelogo/点读.png"
         },
         {
           "id": "site-1778488683059",
           "name": "中小学教育平台",
           "url": "https://basic.smartedu.cn/",
           "description": "国家中小学智慧教育平台",
-          "icon": "https://www.faviconextractor.com/favicon/basic.smartedu.cn"
+          "icon": "/sitelogo/教育平台.png"
         },
         {
           "id": "site-1778488684059",
           "name": "书香博士",
           "url": "http://www.sxwychina.com",
           "description": "书香博士",
-          "icon": "https://www.faviconextractor.com/favicon/www.sxwychina.com"
+          "icon": "/sitelogo/书香.png"
         },
         {
           "id": "site-1778488685059",
@@ -95,14 +95,14 @@ export const mockData = {
           "name": "鑫盘",
           "url": "http://pan.yyjn.top",
           "description": "鑫盘官网。",
-          "icon": "鑫鑫.png"
+          "icon": "/sitelogo/龙1.png"
         },
         {
           "id": "site-1778488694059",
           "name": "alist",
           "url": "http://alist.yyjn.top",
-          "description": "格式官网反过来",
-          "icon": "坚果云.png"
+          "description": "",
+          "icon": "/sitelogo/坚果云.png"
         }
       ]
     },
