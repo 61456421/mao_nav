@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1778488681059",
-          "name": "雨杭爱听书",
-          "url": "http://xx.yyjn.top",
-          "description": "儿童的四大名著",
-          "icon": "/sitelogo/gu.ico"
-        },
-        {
           "id": "site-1778488682059",
           "name": "爱点读",
           "url": "https://h5.520diandu.com",
@@ -321,6 +314,13 @@ export const mockData = {
           "url": "https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/bgbnhio8qwwgbypv",
           "description": "xp模块",
           "icon": "https://www.faviconextractor.com/favicon/www.yuque.com"
+        },
+        {
+          "id": "site-1778488681059",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare-cn.com/personal/",
+          "description": "全球CDN和网络安全服务https://www.cloudflare.com",
+          "icon": "https://www.faviconextractor.com/favicon/www.cloudflare.com"
         }
       ]
     },
