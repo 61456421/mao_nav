@@ -32,35 +32,35 @@ export const mockData = {
           "name": "古诗文赏析",
           "url": "https://www.gushiwen.cn/",
           "description": "古诗文赏析",
-          "icon": "https://www.faviconextractor.com/favicon/www.gushiwen.cn"
+          "icon": "/sitelogo/古.png"
         },
         {
           "id": "site-1778488686059",
           "name": "文心一言",
           "url": "https://yiyan.baidu.com",
           "description": "文心一言。",
-          "icon": "https://www.faviconextractor.com/favicon/yiyan.baidu.com"
+          "icon": "/sitelogo/文心一言.png"
         },
         {
           "id": "site-1778488687059",
           "name": "通义千问",
           "url": "https://qianwen.aliyun.com",
           "description": "通义千问",
-          "icon": "https://www.faviconextractor.com/favicon/qianwen.aliyun.com"
+          "icon": "/sitelogo/通义千问.png"
         },
         {
           "id": "site-1778488688059",
           "name": "讯飞星火",
           "url": "http://xinghuo.xfyun.cn",
           "description": "讯飞星火。",
-          "icon": "https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn"
+          "icon": "/sitelogo/讯飞.png"
         },
         {
           "id": "site-1778488690059",
           "name": "kimi",
           "url": "https://www.kimi.com",
           "description": "AI",
-          "icon": "https://www.faviconextractor.com/favicon/www.kimi.com"
+          "icon": "/sitelogo/kimi.png"
         },
         {
           "id": "site-1778488689059",
@@ -159,84 +159,84 @@ export const mockData = {
           "name": "克隆窝",
           "url": "https://www.uy5.net/",
           "description": "克隆窝",
-          "icon": "https://www.faviconextractor.com/favicon/www.uy5.net"
+          "icon": "/sitelogo/克隆窝.png"
         },
         {
           "id": "site-1778488689059",
           "name": "枫音应用",
           "url": "https://www.fy6b.com/",
           "description": "枫音应用",
-          "icon": "https://www.faviconextractor.com/favicon/www.fy6b.com"
+          "icon": "/sitelogo/枫音.png"
         },
         {
           "id": "site-1778488690059",
           "name": "奔跑中的奶酪",
           "url": "https://www.runningcheese.cn/s21",
           "description": "奔跑中的奶酪",
-          "icon": "https://www.faviconextractor.com/favicon/www.runningcheese.cn"
+          "icon": "/sitelogo/奶酪.png"
         },
         {
           "id": "site-1778488691059",
           "name": "微当下载",
           "url": "https://www.weidown.com/",
           "description": "微当下载",
-          "icon": "https://www.faviconextractor.com/favicon/www.weidown.com"
+          "icon": "/sitelogo/微当.png"
         },
         {
           "id": "site-1778488692059",
           "name": "423down下载",
           "url": "https://www.423down.com/",
           "description": "423down",
-          "icon": "https://www.faviconextractor.com/favicon/www.423down.com"
+          "icon": "/sitelogo/4.png"
         },
         {
           "id": "site-1778488693059",
           "name": "中国色",
           "url": "http://zhongguose.com/",
           "description": "中国传统色",
-          "icon": "https://www.faviconextractor.com/favicon/zhongguose.com"
+          "icon": "/sitelogo/中国色.png"
         },
         {
           "id": "site-1778488694059",
           "name": "良心网站推荐",
           "url": "https://lkssite.vip/",
           "description": "良心网站推荐",
-          "icon": "https://www.faviconextractor.com/favicon/lkssite.vip"
+          "icon": "/sitelogo/推荐.png"
         },
         {
           "id": "site-1778488695059",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
           "description": "吾爱破解",
-          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
+          "icon": "/sitelogo/吾爱.png"
         },
         {
           "id": "site-1778488696059",
           "name": "恩山无线论坛",
           "url": "https://www.right.com.cn/",
           "description": "恩山论坛",
-          "icon": "https://www.faviconextractor.com/favicon/www.right.com.cn"
+          "icon": "/sitelogo/恩山.png"
         },
         {
           "id": "site-1778488697059",
           "name": "公云",
           "url": "http://www.pubyun.com/",
           "description": "公云",
-          "icon": "https://www.faviconextractor.com/favicon/www.pubyun.com"
+          "icon": "/sitelogo/公云.png"
         },
         {
           "id": "site-1778488698059",
           "name": "贝锐花生壳",
           "url": "https://passport.oray.com",
           "description": "贝锐花生壳",
-          "icon": "https://www.faviconextractor.com/favicon/passport.oray.com"
+          "icon": "/sitelogo/花生壳.png"
         },
         {
           "id": "site-1778488699059",
           "name": "有道词典",
           "url": "https://www.youdao.com/",
           "description": "免费，即时的多语种在线翻译。",
-          "icon": "https://www.faviconextractor.com/favicon/www.youdao.com"
+          "icon": "/sitelogo/有道词典.png"
         },
         {
           "id": "site-1778488700059",
