@@ -67,14 +67,14 @@ export const mockData = {
           "name": "slack",
           "url": "https://app.slack.com/",
           "description": "slack",
-          "icon": "slack.png"
+          "icon": "/sitelogo/slack.png"
         },
         {
           "id": "site-1778488691059",
           "name": "AI鑫",
           "url": "https://hy.yyjn.top",
           "description": "免费在线。",
-          "icon": "龙1.png"
+          "icon": "/sitelogo/龙1.png"
         },
         {
           "id": "site-1778488692059",
@@ -124,7 +124,7 @@ export const mockData = {
           "name": "短链接生成",
           "url": "https://xiaomark.com/",
           "description": "小码短链接",
-          "icon": "https://www.faviconextractor.com/favicon/xiaomark.com"
+          "icon": "/sitelogo/短链.png"
         },
         {
           "id": "site-1778488684059",
