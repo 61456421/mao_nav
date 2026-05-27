@@ -110,7 +110,7 @@ export const mockData = {
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
-          "icon": "https://www.faviconextractor.com/favicon/www.cloudflare.com"
+          "icon": "/sitelogo/cf.png"
         },
         {
           "id": "site-1778488682059",
