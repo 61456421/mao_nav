@@ -628,6 +628,20 @@ export const mockData = {
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
+          "id": "free",
+          "name": "域名证书",
+          "url": "https://freessl.cn",
+          "description": "域名证书注册",
+          "icon": "/sitelogo/free.ico"
+        },
+        {
+          "id": "gname.vip",
+          "name": "域名注册",
+          "url": "https://gname.vip/",
+          "description": "域名注册",
+          "icon": "/sitelogo/zc.ico"
+        },
+        {
           "id": "site-1752644060499",
           "name": "怕死云",
           "url": "https://www.pasyun.com/",
