@@ -313,7 +313,7 @@ export const mockData = {
           "name": "xp模块",
           "url": "https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/bgbnhio8qwwgbypv",
           "description": "xp模块",
-          "icon": "https://www.faviconextractor.com/favicon/www.yuque.com"
+          "icon": "/sitelogo/xp.png"
         },
         {
           "id": "site-1778488681059",
