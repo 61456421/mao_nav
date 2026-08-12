@@ -1021,7 +1021,176 @@ export const mockData = {
       "icon": "📚",
       "name": "电子书",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1786521623457",
+          "name": "爱下电子书",
+          "url": "https://ixdzs8.com/",
+          "description": "爱下电子书",
+          "icon": "https://www.faviconextractor.com/favicon/ixdzs8.com"
+        },
+        {
+          "id": "site-1786521734289",
+          "name": "小说路上",
+          "url": "https://m.xs63e.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/m.xs63e.com"
+        },
+        {
+          "id": "site-1786521797409",
+          "name": "新吾爱文学网",
+          "url": "https://www.71ge.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.71ge.com"
+        },
+        {
+          "id": "site-1786521823728",
+          "name": "飞速中文网",
+          "url": "https://www.fsuzw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.fsuzw.com"
+        },
+        {
+          "id": "site-1786521862904",
+          "name": "笔趣阁",
+          "url": "https://www.bqglll.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bqglll.cc"
+        },
+        {
+          "id": "site-1786521905223",
+          "name": "三叶屋",
+          "url": "https://www.wosyw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wosyw.com"
+        },
+        {
+          "id": "site-1786522021142",
+          "name": "笔趣阁冷门",
+          "url": "https://bqg123.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bqg123.net"
+        },
+        {
+          "id": "site-1786522056334",
+          "name": "28看书网",
+          "url": "https://www.28lu.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.28lu.net"
+        },
+        {
+          "id": "site-1786522109014",
+          "name": "池鱼小说网",
+          "url": "https://m.ichiyu.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/m.ichiyu.cc"
+        },
+        {
+          "id": "site-1786522160469",
+          "name": "思兔阅读",
+          "url": "https://www.sto66.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.sto66.com"
+        },
+        {
+          "id": "site-1786522196709",
+          "name": "书豪",
+          "url": "https://www.shuhaoxs.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.shuhaoxs.com"
+        },
+        {
+          "id": "site-1786522246500",
+          "name": "一七小说",
+          "url": "https://www.1qxs.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.1qxs.com"
+        },
+        {
+          "id": "site-1786522336372",
+          "name": "少年小说",
+          "url": "https://www.snxsw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.snxsw.com"
+        },
+        {
+          "id": "site-1786522530762",
+          "name": "香书小说",
+          "url": "http://www.xbiqugu.la",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xbiqugu.la"
+        },
+        {
+          "id": "site-1786522548010",
+          "name": "书海阁",
+          "url": "https://www.shuhaige.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xbiqugu.la"
+        },
+        {
+          "id": "site-1786522573882",
+          "name": "梦书中文",
+          "url": "http://www.mcxs.info",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.shuhaige.net"
+        },
+        {
+          "id": "site-1786522621218",
+          "name": "鸟书网",
+          "url": "http://www.99xs.info/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.99xs.info"
+        },
+        {
+          "id": "site-1786522655370",
+          "name": "笔趣阁22",
+          "url": "https://www.22biqu.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.22biqu.com"
+        },
+        {
+          "id": "site-1786522713921",
+          "name": "笔尖中文",
+          "url": "http://www.xbiquzw.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xbiquzw.net"
+        },
+        {
+          "id": "site-1786522734377",
+          "name": "悠久小说网",
+          "url": "http://www.ujxsw.org",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786522756297",
+          "name": "阅读库",
+          "url": "http://www.yeudusk.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.ujxsw.org"
+        },
+        {
+          "id": "site-1786522782537",
+          "name": "顶点小说",
+          "url": "https://www.wxsy.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wxsy.net"
+        },
+        {
+          "id": "site-1786522802369",
+          "name": "笔趣阁365",
+          "url": "https://www.biquge365.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.biquge365.net"
+        },
+        {
+          "id": "site-1786522828864",
+          "name": "燃文小说网",
+          "url": "https://www.ranwen8.cc",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.ranwen8.cc"
+        }
+      ]
     }
   ],
   "title": "鑫鑫导航",
