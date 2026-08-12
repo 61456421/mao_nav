@@ -1015,6 +1015,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1786521491243",
+      "icon": "📚",
+      "name": "电子书",
+      "order": 4,
+      "sites": []
     }
   ],
   "title": "鑫鑫导航",
