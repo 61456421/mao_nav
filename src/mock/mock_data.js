@@ -554,6 +554,20 @@ export const mockData = {
           "url": "https://www.ranwen8.cc",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.ranwen8.cc"
+        },
+        {
+          "id": "site-1786523236485",
+          "name": "txt图书下载",
+          "url": "http://www.bookshuku.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bookshuku.com"
+        },
+        {
+          "id": "site-1786523306597",
+          "name": "86读书",
+          "url": "http://www.86dushu.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.86dushu.com"
         }
       ]
     },
