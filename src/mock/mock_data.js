@@ -561,6 +561,13 @@ export const mockData = {
           "url": "http://www.86dushu.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.86dushu.com"
+        },
+        {
+          "id": "site-1786523750787",
+          "name": "txt图书下载",
+          "url": "http://www.bookshuku.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bookshuku.com"
         }
       ]
     },
