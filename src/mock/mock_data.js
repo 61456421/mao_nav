@@ -535,18 +535,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.ujxsw.org"
         },
         {
-          "id": "site-1786522782537",
-          "name": "顶点小说",
-          "url": "https://www.wxsy.net",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.wxsy.net"
-        },
-        {
           "id": "site-1786522802369",
           "name": "笔趣阁365",
           "url": "https://www.biquge365.net",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.biquge365.net"
+        },
+        {
+          "id": "site-1786522782537",
+          "name": "顶点小说",
+          "url": "https://www.wxsy.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wxsy.net"
         },
         {
           "id": "site-1786522828864",
