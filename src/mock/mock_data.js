@@ -837,6 +837,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1786673400907",
+          "name": "域名注册",
+          "url": "https://my.dnshe.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
         }
       ]
     },
