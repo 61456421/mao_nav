@@ -842,7 +842,7 @@ export const mockData = {
           "id": "site-1786673400907",
           "name": "域名注册",
           "url": "https://my.dnshe.com",
-          "description": "",
+          "description": "免费续期",
           "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
         }
       ]
