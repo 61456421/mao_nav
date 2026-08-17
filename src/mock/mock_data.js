@@ -568,6 +568,13 @@ export const mockData = {
           "url": "http://www.bookshuku.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.bookshuku.com"
+        },
+        {
+          "id": "site-1786931703830",
+          "name": "棉花糖",
+          "url": "https://www.mht99.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mht99.com"
         }
       ]
     },
