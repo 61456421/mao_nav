@@ -388,6 +388,13 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "site-1787014905119",
+          "name": "搜书",
+          "url": "https://www.owlook.com.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.owlook.com.cn"
+        },
+        {
           "id": "site-1786521623457",
           "name": "爱下电子书",
           "url": "https://ixdzs8.com/",
