@@ -321,6 +321,13 @@ export const mockData = {
           "url": "https://www.cloudflare-cn.com/personal/",
           "description": "全球CDN和网络安全服务https://www.cloudflare.com",
           "icon": "https://www.faviconextractor.com/favicon/www.cloudflare.com"
+        },
+        {
+          "id": "site-1787273436159",
+          "name": "新标签页",
+          "url": "https://itab.link/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/itab.link"
         }
       ]
     },
