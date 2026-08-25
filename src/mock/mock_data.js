@@ -328,6 +328,13 @@ export const mockData = {
           "url": "https://itab.link/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/itab.link"
+        },
+        {
+          "id": "site-1787649998018",
+          "name": "GreasyFork",
+          "url": "https://greasyfork.org.cn/zh-CN",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/greasyfork.org.cn"
         }
       ]
     },
