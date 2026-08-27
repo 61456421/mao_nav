@@ -879,6 +879,13 @@ export const mockData = {
           "url": "https://my.dnshe.com",
           "description": "免费续期",
           "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
+        },
+        {
+          "id": "site-1787813473863",
+          "name": "zerotier",
+          "url": "https://www.zerotier.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.zerotier.com"
         }
       ]
     },
