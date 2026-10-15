@@ -1187,6 +1187,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1792053072889",
+          "name": "聚合",
+          "url": "https://1jubt.vip/",
+          "description": "https://1jubt.top 或 https://1jubt.vip 或 https://1jubt.xyz",
+          "icon": "https://www.faviconextractor.com/favicon/jubt13.xyz"
         }
       ]
     },
