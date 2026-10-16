@@ -596,6 +596,20 @@ export const mockData = {
           "url": "https://www.mht99.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.mht99.com"
+        },
+        {
+          "id": "site-1792113496217",
+          "name": "得奇小说",
+          "url": "https://www.deqixss.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.deqixss.com"
+        },
+        {
+          "id": "site-1792113523632",
+          "name": "69书吧",
+          "url": "https://69shuba.tw/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/69shuba.tw"
         }
       ]
     },
